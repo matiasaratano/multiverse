@@ -136,6 +136,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#startdate {
+	color: #a0a0a1;
+	background-color: #34363b;
+}
+34363b
 /* Basic */
 
 	@-ms-viewport {
